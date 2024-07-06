@@ -1,4 +1,5 @@
-## Hi I'm Abhishek Manoharan 😊!!
+
+<h1 align="center">Hi I'm Abhishek Manoharan 😊!!</h1>
 
 👨🏽‍💻 Passionate Full Stack Developer
   
@@ -10,7 +11,7 @@ Exploring new ways to get things done and make existing solutiion more efficient
 ## Experience
 Software Development Engineer with growth mindset, with the background of
   - 3+ Year Full Stack Development on Healthcare domain.
-  - Delivering End to End cloud solutions with with efficiency and sustainability.
+  - Delivering End to End cloud solutions with efficiency and sustainability.
   - Exposure to wide range of front End and Back End Technologies with Azure Cloud Knowlege 
        
 ### Back End
