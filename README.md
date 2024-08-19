@@ -20,6 +20,9 @@ Software Development Engineer with growth mindset, with the background of
    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" width="32" height="32"/>
    <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="dotnet" width="32" height="32"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="mssql" width="32" height="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="32" height="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="spring" width="32" height="32"/>
+ 
 </p>
 
 ### Front End
