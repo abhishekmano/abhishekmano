@@ -16,6 +16,11 @@ Software Development Engineer with growth mindset, with the background of
 
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=heatmap)
+<!---
+![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=contest)
+-->
+
 ### Back End
 
 <p align="left">
