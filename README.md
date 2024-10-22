@@ -15,11 +15,24 @@ Software Development Engineer with growth mindset, with the background of
   - Exposure to wide range of front End and Back End Technologies with Azure Cloud Knowlege 
 
 ### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=heatmap)
+
+<table border="0">
+<!--  <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr> -->
+ <tr>   
+    <td><img src="https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=heatmap" alt="LeetCode Badges"/></td>
+    <td><img src="https://leetcode-badge-showcase.vercel.app/api?username=AbhishekManoharan&theme=github-dark" alt="LeetCode Badges"/></td>
+ </tr>
+</table>
+
 <!---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=activity)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=contest)
 -->
+
+
 
 ### Back End
 
