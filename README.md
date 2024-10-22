@@ -13,7 +13,9 @@ Software Development Engineer with growth mindset, with the background of
   - 3+ Year Full Stack Development on Healthcare domain.
   - Delivering End to End cloud solutions with efficiency and sustainability.
   - Exposure to wide range of front End and Back End Technologies with Azure Cloud Knowlege 
-       
+
+### Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/AbhishekManoharan?theme=dark&ext=heatmap)
 ### Back End
 
 <p align="left">
